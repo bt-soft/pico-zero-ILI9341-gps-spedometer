@@ -1,2 +1,2 @@
-# pico-zero-ILI9341-gps-spedometer
-TFT 3.2" ILI9341
+# pico-zero-gps
+GPS SpeedoMeter - PICO Zero - uBlox GPS - ILI9341 
