@@ -198,7 +198,7 @@ Ez biztosítja, hogy a kijelző beállítások megfelelően érvényesüljenek a
 
 ---
 **Fejlesztő:** BT-Soft  
-**Blog:** [https://electrodiy.blog.hu/](https://electrodiy.blog.hu/)  
+**Blog:** [https://electrodiy.blog.hu/2025/09/14/gps_speedometer_rp-zero](https://electrodiy.blog.hu/2025/09/14/gps_speedometer_rp-zero)  
 **GitHub:** [https://github.com/bt-soft](https://github.com/bt-soft)  
 
 
